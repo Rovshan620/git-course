@@ -1,2 +1,5 @@
 This course we will talk about git course
 also i am learning of java also SQL
+
+I know MySql programming language
+
